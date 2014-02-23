@@ -1,0 +1,1858 @@
+最 
+adj: most, bottom
+suffix: -est
+
+近
+adv: near, close, close to, approximately, easy
+adj: immediate
+
+最近
+adj: recent
+adv: recently, lately, of late, soon, in the near feature
+
+北
+adj: north
+noun: north
+
+部
+noun: unit, section, part, division, department, ministry, board, troop
+
+北部
+noun: northern part
+
+地
+noun: ground, land, earth, place, field
+adj: topographic, topographical
+particle: adverbial particle
+
+震
+verb: shock, shake, jar, thrill, convulse
+noun: tremor, jar, concussion, sign in trigram 
+
+地震
+noun: earthquake
+
+變
+verb: change, vary, alter, become, transform, metaprphose, shift, convert
+adj: changed
+noun: unpexpected turn of events, rebellion
+
+多
+prefix: multi-
+adj: many, much, numberous, odd, excessive
+
+分
+noun: point, minute, branch, fraction, mark, share, part, fen
+verb: separte, divide, part, partition, distribute
+
+部分
+noun: part, share, section, piece
+
+民
+noun: people, nationality
+
+眾
+adj: many, numerous, large
+noun: crowd, multitude
+
+民眾
+noun: people, populace, the masses
+
+擔
+noun: burden, load, dan
+verb: undertake, carry, shoulder
+
+心
+noun: heart, bosom, center
+
+擔心
+verb: worry, be anxious, worrit
+adj: worried, anxious, uneasy
+noun: trepedation
+
+是
+aux verb: be
+verb: be, exist 
+adj: right, correct
+
+大
+adj: large, big, great, major, bigger, wide, huge, strong, oldest, considerable, coarse, out
+
+前
+adv: before, in front, ago, forward, earlier on
+noun: front
+adj: former, one-time, previous, preceding
+verb: proceed
+preposition: ere
+
+兆
+prefix: mega-
+noun: million, sign, omen, tarsus
+verb: portend, look down
+
+前兆
+noun: omen, portent, prognostic, 
+
+氣
+noun: gas, air, weather, breath, spirit, smell, odor
+adj: gaseous, barometric
+verb: insult
+
+象
+noun: elephant, appearance, shape, jumbo
+verb: resemble, seem, take after
+
+氣象
+adj: meteoroglogical 
+noun: meteorology, atmosphere, scene, meteor
+
+局
+noun: bureau, office, innings, situation, set
+adj: cramped, narrow
+
+測
+verb: measure, survey, fathom, conjecture, infer, lean
+
+報
+noun: report, newspaper, telegram, bulletin, journal, revenge
+
+測報
+noun: forecast
+verb: forecast
+
+中
+preposition: in, during, among, within, amid, amidst
+adj: medium, central
+noun: middle, mid
+
+中心
+noun: center, heart, core, centre, hub
+
+主
+adj: main, primary
+noun: master, lord, host, owner, Allah
+verb: advocate, direct, indicate, manage
+
+任
+noun: office, responsbility
+verb: appoint, assign
+
+主任
+noun: director, head, chairman
+adj: senior
+
+說
+verb: say, tell, speak, talk, persuade, convince
+noun: talking, reproach, rebuke
+adj: spoken
+
+並
+conj: and
+adv: also, simultaneously, side by side
+verb: combine, merge, incorporate
+
+未
+adv: not, not yet
+verb: have not
+
+並未
+adv: not, not yet
+verb: have not
+
+且
+adv: further
+
+難
+adj: difficult, hard, troublesome
+noun: difficulty, problem, disaster, calamity, distress, adversity, scold
+
+預
+adj: advance, preparatory
+adv: beforehand, previously
+
+預測
+noun: forecast, prediction, forecasting, prognostication, prognosis
+verb: forecast, predict, project
+
+蘋
+noun: apple
+
+果
+noun: fruit
+adv: sure enough, really
+
+蘋果
+noun: apple
+
+公
+adj: public, common, fair, just, metric, general, honorable, state-owned
+noun: male, duke, public affairs, husband's father, faither-in-law
+adv: generally
+verb: make public
+
+司
+noun: dppartment
+verb: manage, control
+
+公司
+noun: company, firm, corporation, body corporate
+adj: incorporated
+
+今
+pronoun: this
+adv: today, now
+adj: current present, modern
+
+天
+noun: day, sky, heavens, God, weather, nature, season
+adv: overhead
+
+今天
+adv: today, now
+
+下
+preposition: under, below, underneath
+adj: next, lower, inferior 
+adv: down, downward, downwards
+verb: fall, descend, go down
+
+午
+noun: noon, midday, noonday
+
+下午
+noun: afternoon
+
+表
+noun: table, list, meter, watch, surface, example, exterior, rota, external
+verb: express, show, make sweat
+
+示
+verb: show, reveal
+
+表示
+verb: represent, indicate, express, show, mean, signify, say, denose
+noun: representation, indication, expression, meaning
+
+行
+noun: row, behavior, conduct, behavior, prefession
+verb: do, walk, travel, go
+adj: temporary, competent, professional, capable
+
+動
+verb: move, act, touch, stir, arouse, use
+
+行動
+noun: action, operation
+adj: mobile
+verb: move
+
+裝
+noun: dress, clothing, adornment
+verb: costume, adorn, doll
+
+置
+verb: put, place, install
+
+裝置
+noun: equipment, system
+
+軟
+adj: soft, mild, flexible, pliant, weak, gentle, supple
+
+體
+noun: body, form, substance, style, system, aspect, body part
+adj: stylistic
+
+軟體
+noun: software
+
+出
+verb: come out, issue, go out, arise, put forth, put up, vent, exceed, happen, expend
+
+現
+adj: present, exisiting, current, extempore
+noun: cash
+verb: appear, show
+
+出現
+verb: appear, arise, emerge
+noun: appearance
+
+重
+noun: weight, repetition, layer, iteration
+adj: heavy, weighty, important, serious
+adv: again
+verb: double, repeat, attach importance to, lay stress
+
+重大
+adj: significant, important, major, great
+adv: materially
+
+漏
+noun: leak, spillage, water-clock
+verb: leak, leave out, seep, divulge, let out
+adj: missing
+
+洞
+noun: hole, cave, tear
+adv; thoroughly 
+
+漏洞
+noun: loophole, hole, flaw, leak
+
+恐
+verb: fear, dread, be afraid
+
+讓
+verb: let, allow, make, offer, invite, give up, make way, concede, yield, give ground, fall back
+
+駭
+verb: startle, astonish, be astonished, be shocked
+
+客
+noun: customer, passenger, guest, visitor, traveler
+adj: objective
+
+駭客
+noun: hacker
+
+攔
+verb: bar, block, hinder, hold back, cut off
+
+截
+verb: cut, stop, check, sever
+noun: section, length
+preposition: up by
+
+攔截
+verb: intercept, hold up, head off
+
+本
+pronoun: this
+noun: basis, foundation, origin, source, root
+adj: undergraduate
+
+應
+aux verb: shoujld, ought to
+noun: respond, answer, echo
+verb: cope, comply with, promise, accept, deal with, grant
+
+經
+preposition: through, after, past
+noun: warp
+verb: pass through, manage, endure
+adj: regular, abiding, changeless, immanent, ordinate
+
+過
+verb: cross, live, pass, tick
+
+經過
+prepsosition: after, through, as a result of
+adv: by
+verb: go through, pass
+noun: process, course
+
+加
+verb: add, sum, increase, put in, subjoin
+preposition: plus
+
+密
+adj: dense, thick, close, secret, confidential
+
+加密
+noun: encrption
+verb: encrpyt
+
+的
+preposition: of
+noun: aim
+adv: really and trully
+paticle: possessive particle
+aux verb: ablative cause suffix
+suffix: -self
+
+電
+noun: electricity, telegram
+verb: get an electric shock, give an electric shock
+
+子
+noun: child, son, seed, small thing
+aux verb: noun suffix
+
+電子
+adj: electronic
+noun: electron
+
+郵
+adj: mail, postal
+noun: mail, post, post office
+
+件
+noun: item, clothese
+aux verb: measuure word for a piece
+
+郵件
+noun: mail, post, postal matter, mail matter
+
+和
+conjucution: and
+noun: sum, summation, peace
+adv: together
+verb: mix, blend, draw, tie, chime in, join in singing 
+adj: harmonious, kind
+
+其
+pronoun: its, their, it, his, that, they, her, he, she, this
+adj: such
+
+他
+pronoun: he, him
+adj: allochromatic
+noun: hillside
+
+其他
+adj: other
+adv: else
+
+通
+adj: through, common, open, coherent 
+adv: through
+verb: communicate, connect, notify, lead to, open up, clear out
+noun: expert
+
+訊
+noun: information, news
+verb: interrogate, question, ask
+adj: fast, rapid, speedy
+
+通訊
+noun: communication, newsletter, correspondence, news report
+
+內
+preposition: within
+adj: inside, inner, internal, interior, innermost
+noun: inside
+
+容
+verb: allow, tolerate, premit, hold, contain
+noun: toleration, appearance, facial expression, look
+
+內容
+noun: content, substance, contents, detail
+
+儒
+noun: Confucianism, Confucianist, scholar, learned arm
+
+家
+noun: home, family, household, sepcialist, school, school of thought
+adj: domesticated
+suffix: -er, -ian, -ist
+
+儒家
+noun: Confucianism
+
+又
+adv: also, again, once again
+conjuction: both...and
+
+稱
+verb: say, state, call, name, weigh, praise, commend, suit, fit
+adj: suitable, well-off
+
+學
+verb: learn, study, imitate
+noun: school, learning, knowledge, college, subject of study, branch of learning
+suffix: -logy
+
+儒學
+noun: Confucianism 
+
+思
+verb: think, consider, deliberate
+noun: thought
+
+想
+verb: want, think, suppose, wish, believe, miss, feel like
+aux verb: would like
+
+思想
+noun: thinking, thought, idea, ideology, cogitation
+
+以
+preposition: with, by, according to
+adv: in order to
+conjuction: so as to, because
+verb: use
+
+孔
+noun: hole, aperture, opening, Confucius, eyelet
+
+孔子
+noun: Confucius
+
+為
+preposition: for
+verb: be, serve as, act as, become, mean, make
+conjuction: because of
+
+先
+adj: first, prior, former
+adv: in advance, early
+
+師
+noun: division, teacher, master, expert, model, example
+
+共
+adj: commmon, general
+adv: altogether, together
+verb: share
+
+同
+preposition: with
+pronoun: same
+adj: similar, like, alike
+adv: together
+noun: lane
+
+共同
+adj: common, joint, collaborative 
+adv: jointly, together
+
+認
+verb: recognize, identify, know, make out, admit, adopt, resign oneself, accept as unavoidable, own, undertake to do
+
+可
+verb: can, may, be able to, suit, be worth, approve
+conjuction: but, yet
+adv: certainly
+particle: particle used for emphasis
+
+認可
+verb: approve, approbate
+
+符
+noun: symbol, sign, mark, talisman, written charm
+
+號
+noun: number, name, mark, horn
+verb: cry, coax
+
+符號
+noun: symbol, sign, mark
+
+各
+pronoun: each
+adv: apiece
+
+種
+noun: kind, seed, type, race, genus
+verb: plant, grow, bloat
+
+各種
+noun: all kinds, various kinds, every kind
+
+與
+conjuction: and
+verb: give, take part
+
+此
+pronoun: this, these
+adv: here, now
+
+相
+noun: phase, photo, photograph, picture, posture, bearing, appearance, portrait
+adv: mutally
+adj: photographic
+
+關
+verb: close, shut, turn off, cut, pass
+noun: barrier
+adj: sticking
+
+相關
+adj: interrelated
+
+或
+conjuction: or
+adv: either, perhaps, possibly, mayb, probably
+aux verb: might
+
+聲
+noun: sound, voice, noise, tone, reputation
+
+聲稱
+verb: claim, assert, proclaim, state
+
+道
+noun: road, path, way, Taoism, doctrine, method, principle
+adj: Taoist
+verb: say, talk, speak, suppose, think
+
+德
+noun: moral, virtue, morality, morals, heart, kindness, favor, mind
+
+道德:
+adj: moral
+noun: moral, ethics, morality, virtue
+
+準
+noun: standard, 
+adj: accurate
+
+則
+adv: then
+noun: rule, regulation, criterion, standard, norm
+verb: follow
+
+準則
+noun: criterion
+
+臺
+noun: Taiwan, station, table, desk, platform, stage, stand, terrace, typhoon, broadcasting station, support
+adj: Taiwanese
+pronoun: your
+aux verb: measure word for machines
+
+灣
+noun: bay, gulf, bend in a stream, fleet
+
+臺灣
+noun: Taiwan
+
+擁
+verb: have, own, possess, embrace, hug, support, enjoy, crowd, gather, swarm, flock, maintain
+
+有
+verb: have, be, exist
+
+擁有
+verb: have, own, possess, hold, contain, enjoy, retain
+
+蓬
+adj: fluffy, disheveled
+noun: clump, cluster, flea bane
+
+勃
+adj: prosperous, flourishing
+adv: suddenly, abruptly
+
+蓬勃
+adj: vigorous, flourishing, full of vitality
+
+製
+verb: manufacture
+
+造
+verb: buil, create, make, invent, train, educate
+
+製造
+verb: manufacture, make
+noun: make
+
+產
+verb: yield, produce, give birth, reproduce
+noun: property, resource
+
+業
+noun: industry, business, job, occupation, trade, property, enterprise, profession, 
+verb: practice a profession
+
+產業
+noun: industry, estate, property
+adj: industrial
+
+及
+conjuction: and
+adv: in time
+verb: reach, come up
+
+尖
+noun: tip, point
+adj: sharp, acute, piercing, pointed, shrill, shrewd 
+
+端
+verb: end, carry
+noun: port, extremity, fringe, item
+adj: regular
+
+尖端
+adj: sophisticated 
+noun: peak
+
+科
+noun: branch, subject, field, family, division
+verb: pass a sentence
+
+技
+noun: skill, ability
+
+科技
+noun: technology
+
+在
+preposition: in, at
+verb: be, exist, remain, dwell, be alive, belong to an organization, be located somewhere, depend
+
+半
+noun: half
+prefix: semi-
+adverb: halfway, partly, about half, in the middle
+
+導
+verb: guide, lead, conduct, teach, instruct, transmit, give guidance
+
+導體
+noun: conductor
+
+半導體
+noun: semiconductor
+
+資
+noun: capital, resource, money, expense
+verb: provide, supply, support
+
+資訊
+noun: information
+
+精
+adj: fine, refined, precise, excellent, smart, 
+noun: essense ,extract
+
+精密
+adj: accurate, strict, correct, explicit
+noun: accurary, exactness, preciseness
+
+等
+verb: wait, await
+conjuction: till, when
+noun: grade, class, kind, sort, rank
+
+領
+noun: collar, neck, lead, outline
+verb: collar, lead, receive, get, outline, understand
+
+域
+noun: domain, region, territory
+
+領域
+noun: field, area, domain, sphere, realm, kingdom
+
+執
+verb: execute, carry out, hold, grasp, persist, observe, manage, stick to
+noun: written confession
+
+牛
+noun: cow, ox, bull 
+
+耳
+noun: ear
+adj: side, flanking
+
+許
+verb: promise, allow, permit, praise
+adv: perhaps, maybe
+
+許多
+adj: many, a lot of, much
+
+神
+noun: god, spirit, deity, divinity
+adj: magical, supernatural, superhuman
+
+話
+noun: words, word, dialect, saying, talk, speech, language
+verb: talk
+
+神話
+noun: myth, mythology, fair tale
+adj: mythical, mythic
+
+自
+preposition: from, since
+noun: self
+prefix: self-
+pronoun: oneself
+adv: certainly
+
+然
+conjuction: however, but, nevertheless
+adv: so
+adj: right, correct
+
+然
+adj: natural, physical, physic
+noun: nature
+adv: naturally
+
+大自然
+noun: nature
+
+抗
+prefix: anti-
+verb: resist, defy, refuse, fight, combat, disobey
+
+衡
+verb: measure, weigh, judge
+noun: weighting, weight
+
+抗衡
+verb: contend, match
+noun: counterbalance
+
+悲
+adj: sad, sorrowful
+noun: grief, sorrow, sadness, mourning
+
+劇
+noun: drama, play, opera, theatrical work
+adj: severe, intense, acute
+
+悲劇
+noun: tragedy
+
+英
+noun: Britain, flower, hero, brave, outstanding person
+adj: brave
+
+雄
+adj: male, powerful, heroic, grand, imposing, mighty
+
+英雄
+noun: hero
+
+故
+adv: therefore, hence, intentionally
+noun: reason, cause, acquaintance, friend, happening, instance
+adj: deceased, old
+verb: die
+
+事
+noun: thing, matter, business, job, affair, involvement, accident, trouble, responsbility
+verb: work, be engaged, serve, wait on, wait upon
+
+故事
+noun: story, tale, narrative, routine
+
+令
+verb: make, cause
+noun: order, decree, command, season
+pronoun: your
+
+人
+noun: people, person, man, human being, personality, folk, adult, manpower, character
+
+低
+adj: low
+preposition: beneath
+verb: hang down, incline, lower one's head
+
+徊
+adj: irresolute
+noun: irresolution
+
+不
+adv: not
+adj: no
+noun: no
+prefix: non-, a-, il-, im-, in-, ir-, un-
+
+已
+adv: already, afterwards, afterward, then
+verb: stop
+
+從
+preposition: from
+adj: secondary, lax, unhurried, accessory
+adv: ever
+verb: obey, follow, observe, be engaged
+noun: follower
+
+上
+preposition: on, above, on top of, upon
+adj: upper, last, previous, preceding, superior
+adv: up
+verb: go up
+
+述
+verb: state, tell, narrate, relate
+
+上述
+adj: aboved-mentioned
+
+記
+verb: remember, note, record
+noun: mark, sign
+
+載
+verb: load, carry, hold
+adv: also, simutaneously
+conjuction: and
+
+記載
+verb: record, write down
+
+可以
+verb: can, may, be able to
+adj: possible
+
+知
+verb: know, inform, notify, be aware of
+
+知道
+verb: know, be aware of, be conscious of, savvy, wise up
+noun: knowledge, awareness
+adj: learned
+
+夸
+verb: boast, brag, vaunt, praise, exaggerate, overstate
+
+父
+noun: father
+
+祖
+noun: ancestor, grandfather, founder, forefather, orignator
+
+祖父
+noun: grandfather
+
+原
+adj: original, former, one-time, raw, primary, unsorted
+noun: cause, level
+verb: pardon
+
+國
+noun: country, state, nation
+adj: national
+
+中國
+noun: China
+adj: Chinese
+
+古
+adj: ancient, old
+
+代
+noun: generation, era, age, period
+verb: substitute, replace
+
+古代
+noun: ancient times, antiquity, old times
+
+傳
+verb: pass, spread, transmit, conduct, convey, express, teach, impart, summon, hand down
+noun: biography
+
+傳說
+noun: legend, tradition
+phrase: it is said, they say
+
+幽
+adj: quite, secluded, secret, hidden, serene, dim, imprisoned
+
+冥
+adj: deep, dark, profound
+
+幽冥:
+noun: nether
+
+世
+noun: world, life, lifetime, age, era, generation
+
+界
+noun: world, boundary bound, circles, border, kingdom, scope, extent, group
+
+世界
+noun: world
+
+統
+adv: collectively, together, all
+verb: unify, unite, gather
+noun: series
+adj: whole
+
+治
+verb: rule, govern, cure, heal, manage, control, punish, harness river
+noun: treatment, cure
+
+統治
+noun: rule, ruling, domination, predominant, prepotency
+verb: rule, dominate, predominate, overlord
+
+者
+noun: person
+suffix: -er, -ist,-or
+
+統治者
+noun: ruler, governor, dominator
+
+終
+noun: end, death, expiry, demise, depart
+verb: end, finish, decase, get over
+adj: all, whole, total
+
+於
+preposition: in, at, on, to, for, of, with regard to, in regard to, regarding
+conjuction: when
+
+終於
+adv: finally, evnetually, at last, in the end
+
+娶
+verb: marry, take a wife
+
+到
+verb: go to, reach, get to, arrive, leave for, compass
+adv: up, up until
+
+了
+verb: know, understand, finish, settle, dispose of
+ajd: clear
+aux verb: past tense marker
+
+到了
+adv: there were, in past time
+
+日
+noun: date, day, Japan, Sun
+adj: Japanese
+
+夜
+noun: night, evening
+adj: nocturnal
+
+日夜
+noun: day and night
+adj: around-the-clock
+
+所
+noun: place, office, spot
+
+思
+verb: think, consider, deliberate
+noun: thought
+
+女
+noun: female, woman, girl, daughter
+
+女子
+noun: woman, female, she
+
+快
+adj: fast, quick, rapid, swift, sharp, happy
+adv: fast, qucik, soon
+noun: speed
+verb; hurry up, make haste
+
+樂
+noun: music, laugh
+adj: happy, glad, cheerful, amused
+verb: laugh
+
+快樂
+adj: happy, joyful, cheerful
+
+情
+noun: situation, love, passion, feeling, emotion, affection, sentiment, considtion, favor, kindness
+
+心情
+noun: modd
+
+自是
+adv: naturally
+
+言
+verb: say, speak, talk
+noun: word, speech, character
+
+而
+conjuction: and, while, but, yet, as well as
+
+喻
+verb: explain, analogize, comprehend, percieve, conceive, retionalize, spell out
+noun: explanation, explication, retionalization
+
+不言而喻
+pharse: it goes without saying, it's self-evident
+
+這
+pronoun: this, these
+adv: now
+
+只
+adv: only, just, merely, exclusively
+
+只是
+adv: just, only, simply, merely
+conjuction: but
+
+舉
+noun: move, act, deed
+verb; lift, raise, elect, enumerate, old up, choose
+
+手
+noun: hand
+verb: hold, have in on's hand
+adj: handy
+
+舉手
+verb: raise hands, put up hands
+
+之
+aux verb: subordinate particle
+pronoun: her, him, it
+
+勞
+noun: labor, toil, work, fatigue
+verb: send one's regards, put to the trobule
+
+舉手之勞
+pharse: little things
+
+小
+adj: small, little, tiny, young, few, tabloid, bitty
+
+實
+adj: real, actual, solid, true
+noun: fact, reality
+
+實在
+adv: really, honestly, in reality
+adj: real, true, honest
+noun: actuality
+
+足
+noun: foot, leg
+adj: enought, sufficient, full, ample
+adv: enough, full, as much as
+
+不足
+adj: insufficient, inadequate, short, lacking, not worth
+noun: shortage, deficiency, scarcity, insignificancy
+
+掛
+verb: hang, suspend, put up, hitch, ring off, call up, register
+adj: extended
+noun: extension
+
+齒
+noun: tooth
+
+不足掛齒
+adj: negligible
+
+你
+pronoun: you
+
+何
+adv: how, why
+pronoun: what
+adj: which
+verb: carry
+
+必
+verb: must
+adv: necessarily, certainly
+
+何必
+adv: why
+
+耿
+adj: bright, dedicated, hoenst and just, upright
+
+耿耿
+adj: dedicated, dovted
+verb: be roubled
+
+懷
+noun: bosom, heart
+verb: cherish, mind, think
+
+呢
+particle: question particle
+
+達
+verb: reach, attain, express, extend, communicate, undertand thoroughly
+adj: eminent, distinguished
+
+傳達
+verb: convey, transmit, communicate, relay, pass on
+noun: janitor
+
+祝
+verb: wish, pray, express good wishes, invoke
+
+福
+noun: blessing, good fortune, bliss
+
+祝福
+noun: blessing
+
+語
+noun: language, speech, dialect
+adj: spoken
+verb: tell
+
+成
+verb: become, complete, finish, turn into, succeed, win, accomplish
+adj: capable
+
+心思事成
+phrase: all wishes come true
+
+常
+adv: often, frequently, ever
+adj: constant, common
+
+常常
+adv: often, frequently, usually 
+
+被
+noun: quilt, blanet
+verb: cover, wear
+
+使
+verb: make, cause, use, apply, send, tell to do
+noun: envoy
+adj: causative, factitive
+
+用
+noun: use, usefullness, need, expenses, outlay
+verb: use, apply, take, eat
+
+使用
+verb: use, apply, employ, make use of
+noun: forthputting
+
+辭
+verb: resign, shirk, discharge, take leave
+noun: diction, phraseology
+adj: lexicographical
+
+彙
+noun: collection, collected things, class
+verb: collect
+
+辭彙
+noun: vocabular, words and phrases
+
+指
+noun: finger, digit, digital
+verb: point, indicate, direct, depend
+
+就
+prepsotion: on
+adverb: then, with regard, already, only, at once, right away, right off
+conjuction: that, as soon as, as early as
+verb: undertake, move towards, approach, enter
+
+信
+noun: letter, faith, rust, message, sign, true
+verb: letter, believe, trust
+
+念
+verb: study, say, think, read aloud
+noun: idea, thought, commemoration
+
+信念
+noun: belief, fath, conviction, principle
+
+企
+verb: hope
+
+企業
+noun: entreprise, company, firm
+
+組
+noun: group, set, series
+adj: organized
+verb: organize, form, compose, make up
+
+織
+verb: weave
+
+組織
+noun: organization, tissue, organized system
+adj: organizational
+verb: organize, form texture, establish
+
+裡
+adv: inside
+noun: inside
+
+領導
+noun: leadership, leader, lead, guidance, shepherd
+adj: leading
+verb: lead
+
+領導人
+noun: leader, pilot, rouch bearer
+
+提
+verb: mention, refer, raise, put forward, bring up, life, extract
+
+提出
+verb: put forward, raise, propose, pose, bring forward
+
+願
+adj: willing, ready
+noun: wish, hope, desire
+verb: will
+
+景
+noun: view, scene, scenery, situation
+verb: admire, revere, reverence, respect
+
+願景
+noun: vision
+
+命
+noun: life, command, order, fate
+
+使命
+noun: mission, errand
+
+也
+adv: also, too
+
+一
+article: a
+noun: one
+adj: single
+
+遞
+verb: pass, hand over
+adv: successively, in porper order
+
+傳遞
+verb: transfer, transmit, deliver
+
+若
+adv: as, like
+verb: seem
+
+蛇
+noun: snake
+
+咬
+verb: bite, articulate, pronounce, make accusation
+
+傷
+noun: would, injure
+verb: hrt, be harmful, be distressed, hinder, get sick of
+
+咬傷
+noun: bite
+
+定
+ver: set, fix, order, book, subscribe
+adj: fixed, definite, stable, settled, calm
+adv: definitely, decridedly, surely
+
+一定
+adj: certain, given, fixed, particular
+adv: certainly, surely, necessarily, for sure
+
+要
+verb: want, wish, must, desire, demand, request, coerce, force
+adj: important, vital
+conjuction: if
+
+冷
+adj: cold, frosty, sarcastic, unfrequented
+
+靜
+adj: quite, still, calm, motionless
+
+冷靜
+adj: calm, cool, sober
+
+對
+prepostion: to, at
+noun: pair, correct answer
+adj: right, receiving
+particle: yes
+verb: be opposite, oppose, answer, reply, face, front
+adv: ordery
+
+應對
+noun: response, answer, reply, reaction, comeback
+verb: respond, counter, react, answer, reply
+
+看
+verb: see, look, watch, view, read, think, sight, look fater, judge
+
+清
+adj: clear, clean, distinct, quite
+noun: Qing Dynasty
+adv: thouroughly, completely
+
+楚
+noun: pain, suffering
+adj: distinct, neat, orderly
+
+清楚
+adj: clear, distinct
+verb: understand
+
+兇
+adj: fierce
+
+兇手
+noun: muderer, killer, assassin, assailant, fiend
+
+辨
+verb: distinguish, recognize, dsscern, differentiate
+
+識
+noun: knowledge
+verb: know, record, write a footnote
+
+辨識
+verb: idenity
+noun: identification
+
+花
+noun: flower, blossom,
+verb: spend, expend
+adj: flowery, multicolor
+
+紋
+noun: grain, line, veins, mark, trace
+
+花紋
+noun: pattern
+
+頭
+noun: head, chief, top, hair, beginning, start, slide, hairstyle, aspect
+adj: first
+aux verb: measure word for livestock
+
+型
+noun: type, model pattern, mold
+
+有
+verb: have, be, exist
+
+助
+verb: help, assist, aid
+
+醫
+adj: medical
+noun: medicine, doctor, treatment
+verb: cure, treat
+
+醫師
+noun: doctor, medical
+
+療
+noun: cure
+verb: cure, heal, treat
+
+治療
+noun: treatment, therapy, cure, medical treatment
+verb: treat, cure, heal remedy
+
+口
+noun: mouth, opening
+adj: spoken
+aux verb: measure word in Chinese
+
+傷口
+noun: would, cut
+
+東
+noun: east
+adj: eastern
+
+亞
+adj: inferior, second
+
+東亞
+noun: East Asia
+
+國家
+noun: country, nation, commonwealth
+
+理
+noun: reason, truth, logic, exture, natural science
+verb: manage, tidy, acknowledge, put in order, run
+
+地理
+noun: geography
+
+區
+noun: area, region, zone, distrct, divisio, township
+verb: subdivide
+adj: small
+
+區域
+noun: area, region, district
+
+漢
+noun: Chinese, Han Dynasty, man, fellow
+
+漢語
+noun: Chinese
+
+早
+adj: early
+adv: early, beforehand
+noun: orning
+
+泛
+prefix: pan-
+verb: flood, overflow, float, inundate
+noun: flood, float
+adj: extensive, braod, general, vague, vast
+
+炎
+noun: inflammation, flame
+adj: burning hot
+suffix: -itis
+
+黃
+adj: yellow
+noun: yellow, sulfur, sulphur, primanry color
+
+孫
+noun: grandson
+
+子孫
+noun: offspring, posterity
+
+建
+verb: buld, construct, establish, set up, erect, found
+adj: organizational
+
+立
+verb: stand, set up, erect, throne, live, exist, found
+adj: vertical, upright, immediate
+
+建立
+verb: establish, build, set up, found, frame
+
+度
+noun: degress, meassure, extent, tolerance, limit, occasiion, time, consideration
+verb: spend, pass
+
+國度
+noun: country, state, nation
+
+至
+prepsotion: to, until
+adv: extremely
+verb: arrive
+
+現代
+adj: modern, comtemporary
+noun: modern times
+
+際
+noun: order, edge, boundary, interval
+prepostion: between, among
+conjuction: while
+
+國際
+adj: international
+
+系
+noun: system, line, dpeartment, series, faculty, family, relation, school
+verb: tie, bind, attach, fasten
+
+體系
+noun: system, setup
+
+形
+noun: shape, form, body, exempler, entity
+verb: appear, look, compare
+
+成形
+verb: take shape
+
+後
+adveb: after, later, afterwards, aftward
+noun: back, rear, behind
+
+才
+adv: only, just really, actually
+noun: talent, endowment, gift, ability, epxert
+conjuction: only if, not until, not unless
+
+開
+verb: open, start, open up, hold, operate, run, open out, set up, write out
+
+始
+noun: beginning, start
+verb: start, begin
+
+開始
+verb: start, begin, commence, initiate, start off
+adj: beinning, starting, intial 
+noun: beginning, first, starting, gambit
+
+作
+verb: make, do, become, pretend, compose, affect, feel, rise
+noun: work, writing
+
+作為
+preposition: as
+noun: act, deed, action, conduct
+verb: accomplish
+
+通稱
+verb: be generally called
+
+明
+adj: next, clear, bright, apparent, clear-sighted
+verb: understand, know
+noun: Ming Dynatsty
+
+說明
+noun: explanation, caption, enunciation, directions
+verb: illustrate, explain
+
+古人
+noun: ancient, the ancients
+
+相信
+verb: believe, trust, have faith in, accept as true
+
+出自
+prepositon: from
+
+貴
+adj: expensive, precious, noble, valuable, costly
+noun: moble
+
+族
+noun: clan, race, nationality
+
+貴族
+noun: noble, nobility, aristocracy, nobleman, aristocrat, particain
+
+然而
+conjuction: however, but, yet
+
+如
+conjuction: as, if
+preposition: according to
+
+卻
+conjuction: but, however, yet, while
+verb: refue, decline, reject, retret, repulse, step back
+
+捉
+verb: catch, capture, grab, grasp, hold
+
+住
+verb: live, dewell, reside, stop, bide, fare
+
+捉住
+verb: catch up
+
+太
+adv: too, very, overly, excessively, extremely, over, overmuch
+adj: most senior, highest, more senior
+
+陽
+adj: postive, overt, open
+noun: sun, male genitals, sounth of a hill, north of a river
+
+太陽
+noun: sun
+
+來
+verb: come, arrive, take place, occur
+adj: coming, incoming
+
+看來
+adv: apparently
+
+量
+noun: amoun, quantity, measure, volume, capacity
+verb: amount, measure, estimate, mete
+adj: quantitiative
+
+力
+noun: force, power, strength
+
+不自量力
+adj: overconfident
+
+孩
+noun: child
+
+小孩子
+noun: child
+
+法
+noun: law, France, rule, way, sample
+adjective: French
+
+想法
+noun: idea, opinion, belief, view
+
+往
+preposition: to, towards, toward
+adj: past previous, bound
+adv: fro
+verb: wend, go in a direction
+
+往往
+adv: often, frequently, sometimes
+
+切
+verb: cut, slice, chip, be clsoe to, correspond
+
+實際
+adj: actual, real, practical, realistic, concreate
+noun: practice, reality
+
+不切實際
+adj: unrealistic, impracticable, unpractical
+
+有如
+preposition: like
+
+馬
+noun: horse
+
+空
+noun: air sky, leisure
+adj: bare, in vain
+
+天馬行空
+adj: abstract
+
+般
+noun: sort, kind, way, manner, class
+
+一般
+adj: general, ordinary, common
+adv: just like, currently, same
+
+大人
+adj: adult
+noun: grown-up
+
+驚
+verb: shock, surpise
+
+嘆
+noun: sign
+verb: sign, praise, acclaim
+
+勇
+adj: brave, courageous, valiant
+
+勇氣
+noun: courage, valor, nerve, valour, audacity
+
+向
+prepositon: to, towards, opposite, all along
+noun: direction, orientation, side, part, guide
+verb: favr, turn towards, side with
+adj: opposite
+
+我
+pronoun: I, me, myself
+
+自我
+noun: self
+pronoun: oneself
+
+挑
+verb: pick, choose, select
+
+戰
+noun: war, battle, fight
+verb: fight
+
+挑戰
+noun: challenge, defiance
+verb: challenge
+
+己
+pronon: self
+
+自己
+pronoun: oneself, self
+noun: self
+
+股
+noun: share, part, portion, ply, thigh, whiff, section
+
+圖
+noun: map, chart, drawing, pciture plan, schemem, attemp, intention
+verb: pursue, seek
+
+企圖
+noun: attempt, overture
+verb: attempt, try , seek
+
+企圖心
+noun: ambition
+
+斷
+verb: break, stop, break off, judge, snap, server, give up
+adverb: absolutely
+
+不斷
+adj: continuous, constant, ininterrupted, unceasing
+
+超
+verb: exceed, surpass, transcend, go byeond, overtake, corss, pass
+
+越
+verb: exceed, surpass, climb
+
+超越
+verb: exceed, surpass
+
+達
+verb: reach, attain, express, extend
+adj: eminent, distinguished
+
+達到
+verb: achieve, reach, attain
+
+更
+adj: more
+adv: more, even more, further
+noun: change
+verb: change, replace
+
+好
+adj: good
+adv: well, OK
+verb: love, like
+
+更好
+adj: better, more
+adv: better, more
+
+進
+verb: advanced, entre, go in, get in, move on
+noun: drilling
+
+步
+noun: step, pace, stage
+adj: walking
+verb: walk, foot
+
+境
+noun: territory, border, boundary, considtion, situation
+
+境界
+noun: realm, state, bondary, border, ambit
+
+
+
+
+
+
+
+
+
+
+
